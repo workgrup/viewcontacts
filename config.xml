@@ -111,7 +111,6 @@
         
         <allow-intent href="market:*" />
         <allow-intent href="*"/>
-        <allow-intent href="https://git-wip-us.apache.org/repos/asf/cordova-plugin-contacts.git"/>
         <allow-intent href="http://*/*" />
         <allow-intent href="https://*/*" />
     </platform>
